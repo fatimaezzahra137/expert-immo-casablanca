@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Données (pour garder votre vie privée)
+data/feedbacks.csv
+
+# Environnement virtuel
+venv/
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
