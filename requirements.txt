@@ -9,3 +9,4 @@ geopy
 plotly
 xgboost
 scikit-learn
+matplotlib
